@@ -1,46 +1,29 @@
-# ¡Hola! Soy Diego Rocha 👋
+# Hola, soy Diego Rocha 👋
 
-Técnico en Transformación Digital con experiencia en Soporte IT y Helpdesk L1.
-Actualmente construyendo mi camino hacia **DevSecOps y Cloud Security**.
+**Soporte Técnico / Helpdesk L1** en Querétaro, México, en camino a **SOC Analyst** (Blue Team).
 
-## 🚀 Sobre mí
-
-- 📍 Basado en Querétaro, México
-- 🏫 Estudiante de TSU en Transformación Digital — UVEG
-- 💼 Experiencia en Soporte Técnico y Helpdesk L1 (Banco Santander)
+- 💼 Experiencia en soporte técnico remoto y Helpdesk L1 (centro de llamadas, Santander)
+- 🎓 Estudiante de TSU en Transformación Digital — UVEG
 - 💬 Español nativo · Inglés intermedio
 
-## 🌱 Actualmente aprendiendo
+## 📂 Proyectos
 
-- Linux (Ubuntu 24.04) — administración de sistemas y terminal
-- Git y GitHub — control de versiones y documentación
-- Redes — TCP/IP, DNS, HTTP/HTTPS
-- Bash scripting — automatización de tareas
-- Camino hacia: Python → AWS → Cloud Security
+| Proyecto | Qué demuestra |
+|---|---|
+| [rochamx-helpdesk](https://github.com/rocha-d/rochamx-helpdesk) | Casos de soporte documentados: diagnóstico, solución y aprendizaje |
+| [Linux-lab-setup](https://github.com/rocha-d/Linux-lab-setup) | Práctica de fundamentos de Linux en mi laboratorio personal |
 
-## 🛠️ Tecnologías y herramientas
+## 🌱 Ruta de aprendizaje
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Linux → Redes (TCP/IP, DNS) → Bash y Python → Fundamentos de seguridad → SOC
 
-## 📊 Mi progreso
+## 🛠️ Herramientas
 
-| Fase | Tema | Estado |
-|------|------|--------|
-| Fase 1 | Linux + Redes | 🟡 En progreso |
-| Fase 2 | Python + Bash | ⏳ Pendiente |
-| Fase 3 | AWS Cloud | ⏳ Pendiente |
-| Fase 4 | Seguridad | ⏳ Pendiente |
-| Fase 5 | DevSecOps completo | ⏳ Pendiente |
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-## 📁 Repositorios destacados
+## 📫 Contacto
 
-- 🐧 **linux-lab-setup** — Documentación de mi laboratorio Linux personal
-
-## 📧 Contacto
-
-- Email: Dgrocha.dev@gmail.com
+dgrocha.dev@gmail.com
